@@ -1,1 +1,2 @@
 # pehape
+cheat za ispit
